@@ -1,0 +1,12 @@
+#!/bin/bash
+# This script is used to configure the system
+sudo apt-get update
+sudo apt-get install pkg-config
+sudo apt-get install libglib2.0-dev
+sudo apt-get install libcairo2-dev
+export PKG_CONFIG_PATH=/usr/lib/x86_64-linux-gnu/pkgconfig
+sudo apt-get install libatk1.0-dev
+sudo apt-get install libgdk-pixbuf2.0-dev
+sudo apt-get install libpango1.0-dev
+sudo apt-get install libgtk-3-dev
+cargo build
