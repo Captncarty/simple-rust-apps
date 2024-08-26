@@ -1,10 +1,7 @@
 <h1 align="center">RUST DESKTOP APPLICATION</h1>
 
 
-<h1 align="center">This is a simple project focused on building a simple desktop application that can be used to make drawings at the click of a button</h1>
-<p align ="center">
-    <img width="500" height="300" src="src/img/cli.jpg">
-</p>
+<h1 align="center">This project is focused on building a simple desktop application that can be used to make drawings at the click of a button</h1>
 
 ---------
 
